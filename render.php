@@ -17,7 +17,7 @@
         <img src="<?= $gif ?>" alt="Card Image" class="w-full h-48 object-cover rounded-xl mb-4">
 
         <h2 class="text-xl font-bold mb-2"><?= $data->title ?></h2>
-        <p class="text-sm text-gray-400 mb-2">Level Coding: <?= $data->level ?></p>
+        <p class="text-sm text-gray-400 mb-2">Level Coding: <?= $data->level ?>%</p>
         <p class="text-base"><?= $data->description ?></p>
     </div>
 
