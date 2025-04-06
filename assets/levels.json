@@ -1,0 +1,502 @@
+[
+    {
+       "level":"1",
+       "title":"Pemula Total",
+       "description":"Kamu baru pertama kali mendengar tentang programming."
+    },
+    {
+       "level":"2",
+       "title":"Penasaran",
+       "description":"Kamu mulai mencari tahu apa itu coding dan ingin mencobanya."
+    },
+    {
+       "level":"3",
+       "title":"Mengenal Variabel",
+       "description":"Kamu tahu bahwa variabel menyimpan data di program."
+    },
+    {
+       "level":"4",
+       "title":"Mengenal Tipe Data",
+       "description":"Kamu mulai memahami perbedaan antara string, angka, dan boolean."
+    },
+    {
+       "level":"5",
+       "title":"Cetak Output",
+       "description":"Kamu bisa mencetak teks ke layar dengan fungsi seperti `print()`."
+    },
+    {
+       "level":"6",
+       "title":"Input Pengguna",
+       "description":"Kamu tahu cara menerima input dari pengguna."
+    },
+    {
+       "level":"7",
+       "title":"Pengkondisian Dasar",
+       "description":"Kamu memahami penggunaan `if`, `else`, dan `elif`."
+    },
+    {
+       "level":"8",
+       "title":"Perulangan Dasar",
+       "description":"Kamu bisa menggunakan `for` dan `while` loop untuk mengulang kode."
+    },
+    {
+       "level":"9",
+       "title":"Fungsi Dasar",
+       "description":"Kamu bisa membuat dan memanggil fungsi sederhana."
+    },
+    {
+       "level":"10",
+       "title":"Komentar",
+       "description":"Kamu tahu cara menulis komentar untuk menjelaskan kode."
+    },
+    {
+       "level":"11",
+       "title":"Struktur Data Sederhana",
+       "description":"Kamu mengenal list dan dictionary."
+    },
+    {
+       "level":"12",
+       "title":"Pengulangan Bersarang",
+       "description":"Kamu mencoba nested loop untuk menyelesaikan masalah."
+    },
+    {
+       "level":"13",
+       "title":"Debugging Dasar",
+       "description":"Kamu mulai mencari dan memperbaiki error pada kode."
+    },
+    {
+       "level":"14",
+       "title":"Menggunakan IDE",
+       "description":"Kamu terbiasa menggunakan editor seperti VSCode atau PyCharm."
+    },
+    {
+       "level":"15",
+       "title":"Menulis Fungsi Modular",
+       "description":"Kamu mulai membagi kode menjadi fungsi-fungsi kecil."
+    },
+    {
+       "level":"16",
+       "title":"Menggunakan Modul Bawaan",
+       "description":"Kamu mulai memakai library seperti `math` atau `random`."
+    },
+    {
+       "level":"17",
+       "title":"Mengelola File",
+       "description":"Kamu bisa membaca dan menulis file teks."
+    },
+    {
+       "level":"18",
+       "title":"Error Handling",
+       "description":"Kamu tahu cara menggunakan `try` dan `except`."
+    },
+    {
+       "level":"19",
+       "title":"Konsep Objek",
+       "description":"Kamu mulai memahami apa itu objek dan instance."
+    },
+    {
+       "level":"20",
+       "title":"Class Dasar",
+       "description":"Kamu bisa membuat class dan membuat objek dari class tersebut."
+    },
+    {
+       "level":"21",
+       "title":"Pewarisan Sederhana",
+       "description":"Kamu memahami inheritance antar class."
+    },
+    {
+       "level":"22",
+       "title":"Penggunaan Library Pihak Ketiga",
+       "description":"Kamu mulai menginstal dan menggunakan library luar."
+    },
+    {
+       "level":"23",
+       "title":"Struktur Proyek",
+       "description":"Kamu mulai mengorganisir kode dalam folder dan file terpisah."
+    },
+    {
+       "level":"24",
+       "title":"Penggunaan Git Dasar",
+       "description":"Kamu bisa melakukan `commit`, `push`, dan `pull` dengan Git."
+    },
+    {
+       "level":"25",
+       "title":"Pengenalan Algoritma",
+       "description":"Kamu memahami konsep algoritma dan logika dasar pemrograman."
+    },
+    {
+       "level":"26",
+       "title":"Sorting dan Searching",
+       "description":"Kamu bisa mengimplementasikan bubble sort dan binary search."
+    },
+    {
+       "level":"27",
+       "title":"Struktur Data Tingkat Lanjut",
+       "description":"Kamu mulai belajar stack, queue, dan linked list."
+    },
+    {
+       "level":"28",
+       "title":"Rekursi Dasar",
+       "description":"Kamu bisa membuat fungsi rekursif sederhana."
+    },
+    {
+       "level":"29",
+       "title":"Debugging dengan Breakpoint",
+       "description":"Kamu menggunakan debugger untuk melacak kesalahan."
+    },
+    {
+       "level":"30",
+       "title":"Pemrograman Berbasis Event",
+       "description":"Kamu memahami cara kerja event listener."
+    },
+    {
+       "level":"31",
+       "title":"Membuat Aplikasi Konsol",
+       "description":"Kamu bisa membuat aplikasi CLI dengan menu dan navigasi."
+    },
+    {
+       "level":"32",
+       "title":"API Request Dasar",
+       "description":"Kamu bisa mengambil data dari API menggunakan HTTP request."
+    },
+    {
+       "level":"33",
+       "title":"JSON dan Serialisasi",
+       "description":"Kamu memahami cara bekerja dengan format JSON."
+    },
+    {
+       "level":"34",
+       "title":"Asynchronous Programming Dasar",
+       "description":"Kamu tahu dasar penggunaan `async` dan `await`."
+    },
+    {
+       "level":"35",
+       "title":"Test Otomatis Dasar",
+       "description":"Kamu menulis unit test untuk memastikan kode berjalan baik."
+    },
+    {
+       "level":"36",
+       "title":"Membuat Aplikasi Web Sederhana",
+       "description":"Kamu bisa membuat halaman web dinamis dengan backend."
+    },
+    {
+       "level":"37",
+       "title":"Framework Web Dasar",
+       "description":"Kamu menggunakan framework seperti Flask atau Express."
+    },
+    {
+       "level":"38",
+       "title":"Database Dasar",
+       "description":"Kamu tahu cara menyimpan dan mengambil data dari database."
+    },
+    {
+       "level":"39",
+       "title":"SQL Dasar",
+       "description":"Kamu bisa melakukan query sederhana seperti SELECT dan INSERT."
+    },
+    {
+       "level":"40",
+       "title":"ORM Dasar",
+       "description":"Kamu menggunakan ORM seperti SQLAlchemy atau Prisma."
+    },
+    {
+       "level":"41",
+       "title":"Otentikasi Pengguna",
+       "description":"Kamu bisa membuat sistem login sederhana."
+    },
+    {
+       "level":"42",
+       "title":"CRUD Lengkap",
+       "description":"Kamu membuat sistem Create, Read, Update, Delete."
+    },
+    {
+       "level":"43",
+       "title":"Routing dan Middleware",
+       "description":"Kamu mengelola alur permintaan dengan rapi di backend."
+    },
+    {
+       "level":"44",
+       "title":"Frontend Dasar",
+       "description":"Kamu memahami HTML, CSS, dan JavaScript dasar."
+    },
+    {
+       "level":"45",
+       "title":"Responsive Design",
+       "description":"Kamu membuat tampilan web yang bagus di semua ukuran layar."
+    },
+    {
+       "level":"46",
+       "title":"JavaScript DOM Manipulation",
+       "description":"Kamu bisa mengubah elemen halaman secara dinamis."
+    },
+    {
+       "level":"47",
+       "title":"Framework Frontend Dasar",
+       "description":"Kamu menggunakan React, Vue, atau Angular."
+    },
+    {
+       "level":"48",
+       "title":"State Management",
+       "description":"Kamu mengatur data aplikasi frontend dengan rapi."
+    },
+    {
+       "level":"49",
+       "title":"Integrasi API",
+       "description":"Kamu bisa mengambil dan menampilkan data dari backend ke frontend."
+    },
+    {
+       "level":"50",
+       "title":"Deploy Sederhana",
+       "description":"Kamu bisa mengonline-kan aplikasi ke hosting atau cloud."
+    },
+    {
+       "level":"51",
+       "title":"Continuous Deployment",
+       "description":"Kamu mengatur pipeline deployment otomatis ke server."
+    },
+    {
+       "level":"52",
+       "title":"Versioning API",
+       "description":"Kamu mulai mempertimbangkan versi pada API agar kompatibel dengan berbagai klien."
+    },
+    {
+       "level":"53",
+       "title":"Websocket Dasar",
+       "description":"Kamu bisa membuat komunikasi real-time antara client dan server."
+    },
+    {
+       "level":"54",
+       "title":"Auth Token dan JWT",
+       "description":"Kamu menggunakan token untuk otentikasi dan autorisasi."
+    },
+    {
+       "level":"55",
+       "title":"Testing Lanjutan",
+       "description":"Kamu menulis integration test dan end-to-end test."
+    },
+    {
+       "level":"56",
+       "title":"Caching",
+       "description":"Kamu mengimplementasikan cache untuk meningkatkan performa aplikasi."
+    },
+    {
+       "level":"57",
+       "title":"Concurrency dan Paralelisme",
+       "description":"Kamu memahami perbedaan dan menggunakan thread/process/asynchronous sesuai kebutuhan."
+    },
+    {
+       "level":"58",
+       "title":"Penggunaan Docker",
+       "description":"Kamu menjalankan aplikasi dalam container untuk konsistensi lingkungan."
+    },
+    {
+       "level":"59",
+       "title":"CI/CD Automation",
+       "description":"Kamu mengautomasi proses build, test, dan deploy dengan pipeline."
+    },
+    {
+       "level":"60",
+       "title":"Security Dasar",
+       "description":"Kamu melindungi aplikasi dari celah umum seperti SQL Injection dan XSS."
+    },
+    {
+       "level":"61",
+       "title":"Rate Limiting dan Throttling",
+       "description":"Kamu membatasi jumlah request dari client untuk menjaga performa dan keamanan."
+    },
+    {
+       "level":"62",
+       "title":"Database Scaling",
+       "description":"Kamu memahami cara scaling database secara vertikal atau horizontal."
+    },
+    {
+       "level":"63",
+       "title":"Microservices",
+       "description":"Kamu mulai membagi sistem besar menjadi layanan-layanan kecil yang independen."
+    },
+    {
+       "level":"64",
+       "title":"Service Discovery",
+       "description":"Kamu mengatur komunikasi antar layanan dengan sistem penemuan otomatis."
+    },
+    {
+       "level":"65",
+       "title":"Monitoring dan Logging",
+       "description":"Kamu menggunakan tools untuk memantau performa dan error aplikasi."
+    },
+    {
+       "level":"66",
+       "title":"Design Pattern",
+       "description":"Kamu menerapkan pola desain seperti Singleton, Observer, dan Factory dalam kode."
+    },
+    {
+       "level":"67",
+       "title":"Clean Architecture",
+       "description":"Kamu menyusun kode dengan lapisan yang terpisah antara domain, use case, dan antarmuka."
+    },
+    {
+       "level":"68",
+       "title":"Code Review",
+       "description":"Kamu bisa meninjau dan memberikan feedback pada kode rekan tim."
+    },
+    {
+       "level":"69",
+       "title":"Refactoring",
+       "description":"Kamu mengubah struktur kode agar lebih baik tanpa mengubah perilaku."
+    },
+    {
+       "level":"70",
+       "title":"Performance Optimization",
+       "description":"Kamu bisa menganalisis dan mempercepat bagian lambat dalam aplikasi."
+    },
+    {
+       "level":"71",
+       "title":"Linting dan Code Formatting",
+       "description":"Kamu menjaga konsistensi kode dengan tools seperti ESLint atau Prettier."
+    },
+    {
+       "level":"72",
+       "title":"Modular Monolith",
+       "description":"Kamu menyusun monolith agar tetap scalable dengan modul-modul yang terpisah."
+    },
+    {
+       "level":"73",
+       "title":"Event-Driven Architecture",
+       "description":"Kamu mendesain sistem dengan event dan listener antar layanan."
+    },
+    {
+       "level":"74",
+       "title":"Message Queue",
+       "description":"Kamu menggunakan sistem seperti RabbitMQ atau Kafka untuk antrian pesan."
+    },
+    {
+       "level":"75",
+       "title":"GraphQL",
+       "description":"Kamu menggunakan GraphQL untuk query data yang fleksibel dan efisien."
+    },
+    {
+       "level":"76",
+       "title":"NoSQL Database",
+       "description":"Kamu menggunakan database seperti MongoDB atau Firebase."
+    },
+    {
+       "level":"77",
+       "title":"Reverse Proxy",
+       "description":"Kamu mengatur NGINX atau sejenisnya untuk meneruskan request ke backend."
+    },
+    {
+       "level":"78",
+       "title":"Load Balancing",
+       "description":"Kamu membagi trafik ke beberapa server untuk efisiensi dan keandalan."
+    },
+    {
+       "level":"79",
+       "title":"Infrastructure as Code",
+       "description":"Kamu menggunakan Terraform atau Ansible untuk mengatur infrastruktur secara otomatis."
+    },
+    {
+       "level":"80",
+       "title":"Unit Economics",
+       "description":"Kamu memahami biaya dan dampak teknis dari fitur yang kamu bangun."
+    },
+    {
+       "level":"81",
+       "title":"Serverless",
+       "description":"Kamu membuat fungsi berjalan tanpa mengelola server sendiri."
+    },
+    {
+       "level":"82",
+       "title":"Progressive Web App (PWA)",
+       "description":"Kamu membuat web app yang bisa diakses seperti aplikasi native."
+    },
+    {
+       "level":"83",
+       "title":"Mobile Development Dasar",
+       "description":"Kamu mulai membangun aplikasi mobile native atau hybrid."
+    },
+    {
+       "level":"84",
+       "title":"Testing Coverage",
+       "description":"Kamu memastikan bagian penting dari kode ter-cover oleh test."
+    },
+    {
+       "level":"85",
+       "title":"Design System",
+       "description":"Kamu membangun komponen UI reusable dan konsisten."
+    },
+    {
+       "level":"86",
+       "title":"Accessibility (a11y)",
+       "description":"Kamu memastikan aplikasi bisa digunakan oleh semua orang, termasuk disabilitas."
+    },
+    {
+       "level":"87",
+       "title":"Internationalization",
+       "description":"Kamu membuat aplikasi siap untuk multi-bahasa dan region."
+    },
+    {
+       "level":"88",
+       "title":"AI/ML Basic",
+       "description":"Kamu mulai bermain dengan model machine learning sederhana."
+    },
+    {
+       "level":"89",
+       "title":"Data Pipeline",
+       "description":"Kamu bisa membuat alur pengumpulan dan transformasi data secara otomatis."
+    },
+    {
+       "level":"90",
+       "title":"Real-time Analytics",
+       "description":"Kamu membangun sistem pemantauan data secara langsung."
+    },
+    {
+       "level":"91",
+       "title":"Reverse Engineering Dasar",
+       "description":"Kamu mulai memahami cara membongkar dan menganalisis sistem yang sudah jadi."
+    },
+    {
+       "level":"92",
+       "title":"Cryptography Dasar",
+       "description":"Kamu memahami prinsip enkripsi dan penggunaan hashing."
+    },
+    {
+       "level":"93",
+       "title":"Zero Downtime Deployment",
+       "description":"Kamu bisa memperbarui aplikasi tanpa mengganggu pengguna."
+    },
+    {
+       "level":"94",
+       "title":"Feature Toggle",
+       "description":"Kamu mengatur perilaku aplikasi berdasarkan fitur yang diaktifkan."
+    },
+    {
+       "level":"95",
+       "title":"Domain-Driven Design (DDD)",
+       "description":"Kamu menyelaraskan struktur kode dengan kebutuhan bisnis."
+    },
+    {
+       "level":"96",
+       "title":"Scaling Tim Teknologi",
+       "description":"Kamu membantu tim tumbuh dengan standar dan praktik terbaik."
+    },
+    {
+       "level":"97",
+       "title":"Tech Leadership",
+       "description":"Kamu memimpin arah teknis tim dan proyek dengan bijak."
+    },
+    {
+       "level":"98",
+       "title":"System Design Expert",
+       "description":"Kamu bisa merancang sistem besar dan kompleks dari nol."
+    },
+    {
+       "level":"99",
+       "title":"Polyglot Developer",
+       "description":"Kamu menguasai banyak bahasa dan paradigma pemrograman."
+    },
+    {
+       "level":"100",
+       "title":"Master Programmer",
+       "description":"Kamu bukan hanya menulis kode, kamu membangun sistem yang berdampak besar."
+    }
+ ]
