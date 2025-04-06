@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><?= $strToTitle($name) . ", Level Coding $data->level 🗿" ?></title>
+    <title><?= $strToTitle($name) . ", Level Coding: $data->level% 🗿" ?></title>
     <meta name="description" content="<?= $data->description ?>">
     <meta property="og:image" content="<?= $gif ?>" />
     <script src="https://cdn.tailwindcss.com"></script>
